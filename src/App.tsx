@@ -3,6 +3,9 @@ import './App.css';
 
 import logo from './logo.svg';
 
+const test1 = "It's gettin' better!";
+const test2 = 'It\'s gettin\' better!';
+
 class App extends React.Component {
   public render() {
     return (
